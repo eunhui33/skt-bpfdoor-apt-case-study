@@ -40,7 +40,7 @@ telecom core infrastructure and remained undetected for years.
 - Do not delay security patches on critical systems solely for operational stability
 - Act decisively on early compromise indicators to prevent multi-year APT persistence
 
-## AppSec Relevance
+### AppSec Relevance
 - Lack of access segmentation → single-node compromise 
   exposed entire HSS cluster
 - 2-year logging gap → forensic investigation impossible
